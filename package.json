@@ -6,6 +6,9 @@
     "yargs": "^3.9.0"
   },
   "bin": {
-    "github-pages-commit": "bin/commit.js"
+    "github-pages-commit": "bin/commit.js",
+    "github-pages-push": "bin/push.js",
+    "github-pages-deploy": "bin/deploy.js"
+
   }
 }
